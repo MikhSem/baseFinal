@@ -1,0 +1,15 @@
+D:\обучение\baseFinal\dzFinal\bin\Debug\net6.0\dzFinal.exe
+D:\обучение\baseFinal\dzFinal\bin\Debug\net6.0\dzFinal.deps.json
+D:\обучение\baseFinal\dzFinal\bin\Debug\net6.0\dzFinal.runtimeconfig.json
+D:\обучение\baseFinal\dzFinal\bin\Debug\net6.0\dzFinal.dll
+D:\обучение\baseFinal\dzFinal\bin\Debug\net6.0\dzFinal.pdb
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.csproj.AssemblyReference.cache
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.AssemblyInfoInputs.cache
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.AssemblyInfo.cs
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.csproj.CoreCompileInputs.cache
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.dll
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\refint\dzFinal.dll
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.pdb
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\dzFinal.genruntimeconfig.cache
+D:\обучение\baseFinal\dzFinal\obj\Debug\net6.0\ref\dzFinal.dll
